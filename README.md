@@ -1,4 +1,4 @@
-# gerador-de-proposta-facilita
+# gerador-de-proposta
 
 link: https://cherlau-gerador-de-proposta.netlify.app/
 
